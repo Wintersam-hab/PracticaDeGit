@@ -1,0 +1,1 @@
+console.log("En este archivo se trabajará lo del footer");
