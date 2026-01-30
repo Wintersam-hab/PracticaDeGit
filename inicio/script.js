@@ -1,0 +1,1 @@
+console.log("Esta carpeta contiene los archivos de una rama llamada inicio");
