@@ -32,3 +32,8 @@ class Pitbull extends Animal{
 const pancho = new Pitbull(23, "pitbull", "pancho");
 
 console.log(pancho);
+
+
+const juan = new pitbull(45, "pitbull", "juan");
+
+console.log(juan);
