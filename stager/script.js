@@ -1,0 +1,1 @@
+console.log("se modifica el stager en la rama master porque ya se mergeo y existe ahora solo una rama")
